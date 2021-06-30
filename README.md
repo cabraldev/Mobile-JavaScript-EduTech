@@ -1,4 +1,4 @@
 # Mobile
 
 Edutech - Mobile ❤
-Linguagem JavaScript 
+Primeiros passos com  o  JavaScript

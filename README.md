@@ -1,4 +1,4 @@
-# Mobile
+ # Mobile Edut Tech 👨‍💻
 
 Edutech - Mobile ❤
-Primeiros passos com  o  JavaScript
+ Aprimorando conhecimento. 

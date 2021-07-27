@@ -1,0 +1,36 @@
+.contact p{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:600;
+    font-size: 25px;
+        display: flex;
+    justify-content: center;
+}
+
+.logo{
+    float: right;
+    border-radius: 10px;
+    margin: 30px;
+    padding-right: 75px;
+    
+    
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    
+}
+
+.txt{
+    text-align: left;
+
+    font-family: 'Open Sans', sans-serif;
+    padding-top:75px;
+    font-size: 35px;
+
+}
+ 
+.mapa {
+    padding-left: 353px;
+    margin: 25px;
+}

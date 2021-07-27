@@ -1,0 +1,87 @@
+.planostxt{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:600;
+    font-size: 35px;
+        display: flex;
+    justify-content: center;
+}
+
+.escrita2{
+    font-family: 'Open Sans', sans-serif;
+    padding:5px;
+    font-size: 22px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.planos{
+    display: flex;
+    justify-content: center;
+}
+
+.ti1{
+    text-align: center;
+    background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:600;
+    font-size: 35px;
+    padding: 20px;
+    
+}
+
+.planolist {
+
+    background: rgba(255, 256, 255, 10);
+    width: 260px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 15px 15px 15px 15px;
+    
+}
+
+.card-imge {
+    background-color: white;
+    height: 170px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.pla-1{
+    background-image: url("../img/basic.png");
+
+
+}
+
+.pla-2{
+    background-image: url('../img/medium.png');
+}
+
+.pla-3{
+    background-image: url('../img/premium.png');
+}
+
+.ti1{
+    text-align: center;
+    background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:600;
+    font-size: 35px;
+}
+
+.escrita2 {
+    font-family: 'Open Sans', sans-serif;
+    padding:5px;
+    font-size: 22px;
+    margin: 10px;
+}
+
+
+  .planolist {
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin:30px;
+  }
+

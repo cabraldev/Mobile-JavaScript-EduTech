@@ -1,0 +1,16 @@
+.textofooter{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:600;
+    font-size: 15px;
+    text-align:center;
+    margin: 10px;
+}
+
+footer{
+    background:#9370DB;
+    padding: 10px;
+    display: block;
+    border: 15px;
+
+}
+

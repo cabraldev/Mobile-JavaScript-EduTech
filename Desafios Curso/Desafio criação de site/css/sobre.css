@@ -1,0 +1,72 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.t2{
+    text-align: center;
+    background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:600;
+    font-size: 35px;
+    padding: 20px;
+    
+}
+
+.card {
+
+    background: #7353b5;
+    width: 270px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 15px 15px 15px 15px;
+    
+}
+
+.card-img {
+    background-color: white;
+    height: 170px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.pl-1{
+    background-image: url("../img/plano1.png");
+
+}
+
+.pl-2{
+    background-image: url('../img/plano2.png');
+}
+
+.pl-3{
+    background-image: url('../img/plano3.png');
+}
+
+.ti{
+    text-align: center;
+    background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:600;
+    font-size: 25px;
+}
+
+.escrita {
+    font-family: 'Open Sans', sans-serif;
+    padding:5px;
+    font-size: 22px;
+    margin: 10px;
+}
+
+.card:hover {
+    transform: scale(1.15);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+  }
+
+  .card {
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin:30px;
+  }
+

@@ -1,0 +1,12 @@
+{
+  "name": "plop-bank",
+  "version": "1.0.0",
+  "description": "Estudando orientações de objetos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CabralDev",
+  "license": "ISC",
+  "type":"module"
+}

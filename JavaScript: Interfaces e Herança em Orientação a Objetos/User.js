@@ -1,7 +1,4 @@
 export class User{
-    nome; 
-    _cpf;
-
     get cpf(){
        return this._cpf;
     }
